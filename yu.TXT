@@ -1,0 +1,5 @@
+studenID:1 studenName:1 chooseDate:3 chooseTime:2 chooseRoom:2 status:2
+studenID:1 studenName:1 chooseDate:3 chooseTime:1 chooseRoom:2 status:-1
+studenID:1 studenName:1 chooseDate:5 chooseTime:1 chooseRoom:3 status:2
+studenID:2 studenName:уехЩ chooseDate:1 chooseTime:2 chooseRoom:3 status:-1
+studenID:1 studenName:1 chooseDate:4 chooseTime:1 chooseRoom:3 status:-1
