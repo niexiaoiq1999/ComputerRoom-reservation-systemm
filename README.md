@@ -1,2 +1,2 @@
 # ComputerRoom-reservation-systemm
-a computer-rroom reservation system
+a computer-room reservation system which using language is Chinese
